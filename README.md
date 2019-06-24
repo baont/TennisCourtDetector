@@ -1,2 +1,2 @@
 # TennisCourtDetector
-A tool to detect near by tennis court 
+A tool to detect nearby tennis court 
